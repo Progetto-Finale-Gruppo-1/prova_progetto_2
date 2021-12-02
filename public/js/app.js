@@ -49931,8 +49931,13 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
+<<<<<<< HEAD
 __webpack_require__(/*! C:\laravel_ex\prova_progetto_2\resources\js\app.js */"./resources/js/app.js");
 module.exports = __webpack_require__(/*! C:\laravel_ex\prova_progetto_2\resources\sass\app.scss */"./resources/sass/app.scss");
+=======
+__webpack_require__(/*! C:\Users\bone-\Documents\Boolean\progetto_finale\deliveboo-project\prova_progetto_2\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\bone-\Documents\Boolean\progetto_finale\deliveboo-project\prova_progetto_2\resources\sass\app.scss */"./resources/sass/app.scss");
+>>>>>>> c52635f8e1c0921e6f2652acf0d917cd17fdc802
 
 
 /***/ })
